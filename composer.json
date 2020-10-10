@@ -1,1 +1,9 @@
-{}
+{
+   "name": "pbrooker/laravel-mix-tailwind",
+    "type": "package",
+    "description": "Laravel-mix-tailwind. Forked from Jeffery Way to update tailwind file name."
+    "keywords": [
+        "laravel-mix-tailwind"
+    ],
+    "license": "MIT"
+}
